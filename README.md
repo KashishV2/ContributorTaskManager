@@ -8,7 +8,9 @@ The Contributor Task Manager is a Java program designed to assign tasks to contr
 -Data Structures such as lists and maps.
 -Sorting algorithms for optimal task allocation.
 -Object-oriented programming principles in Java.
+
 *Features
+
 -Dynamic Task Assignment: Tasks are assigned based on matching skill levels and task difficulty.
 -Flexible Input: Easily modify task and contributor data for testing different scenarios.
 -Optimized Performance: Uses sorting for efficient allocation.
